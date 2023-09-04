@@ -1,7 +1,7 @@
 .about {
-  font-family: "Montserrat", sans-serif;
-  color: #3a4042;
-  font-size: 18px;
-  font-style: normal;
   font-weight: 700;
+  font-size: 18px;
+  color: var(--first-color);
+  text-decoration: none;
+  text-transform: uppercase;
 }

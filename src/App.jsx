@@ -1,7 +1,11 @@
 import "./about.css";
 
 function App() {
-  return <a className="about">Sobre</a>;
+  return (
+    <a href="#" className="about">
+      Sobre
+    </a>
+  );
 }
 
 export default App;
