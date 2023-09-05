@@ -1,7 +1,7 @@
-import Sobre from "./objects/Sobre";
+import Header from "./components/Header";
 
 function App() {
-  return <Sobre />;
+  return <Header />;
 }
 
 export default App;
